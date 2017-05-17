@@ -1,0 +1,5 @@
+SET timing ON
+SELECT Domain
+FROM MAJESTIC
+WHERE RefSubNets>100000;
+

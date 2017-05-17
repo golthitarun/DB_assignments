@@ -1,0 +1,1 @@
+time sqlldr TXG160430/chinnu1994 control=majestic_index1.ctl
